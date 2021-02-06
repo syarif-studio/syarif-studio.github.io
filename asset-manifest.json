@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ba960e9.chunk.css",
-    "main.js": "/static/js/main.3effa77b.chunk.js",
-    "main.js.map": "/static/js/main.3effa77b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b0844db5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b0844db5.js.map",
-    "static/js/2.1d79e655.chunk.js": "/static/js/2.1d79e655.chunk.js",
-    "static/js/2.1d79e655.chunk.js.map": "/static/js/2.1d79e655.chunk.js.map",
+    "main.css": "/static/css/main.5d95002d.chunk.css",
+    "main.js": "/static/js/main.702aee05.chunk.js",
+    "main.js.map": "/static/js/main.702aee05.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f66c7f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f66c7f4.js.map",
+    "static/css/2.e852eeaf.chunk.css": "/static/css/2.e852eeaf.chunk.css",
+    "static/js/2.1a646ace.chunk.js": "/static/js/2.1a646ace.chunk.js",
+    "static/js/2.1a646ace.chunk.js.map": "/static/js/2.1a646ace.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.96de51c94d8a82e54fc9926c87e6c1ab.js": "/precache-manifest.96de51c94d8a82e54fc9926c87e6c1ab.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2ba960e9.chunk.css.map": "/static/css/main.2ba960e9.chunk.css.map",
-    "static/js/2.1d79e655.chunk.js.LICENSE.txt": "/static/js/2.1d79e655.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/2.e852eeaf.chunk.css.map": "/static/css/2.e852eeaf.chunk.css.map",
+    "static/css/main.5d95002d.chunk.css.map": "/static/css/main.5d95002d.chunk.css.map",
+    "static/js/2.1a646ace.chunk.js.LICENSE.txt": "/static/js/2.1a646ace.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/HelveticaNowDisplay-Regular.7a5d20e3.woff",
+    "static/media/banks-logo.214d169b.png": "/static/media/banks-logo.214d169b.png",
+    "static/media/App.css": "/static/media/home-main.67d08899.jpg",
+    "static/media/player-poster.3e652955.jpg": "/static/media/player-poster.3e652955.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0844db5.js",
-    "static/js/2.1d79e655.chunk.js",
-    "static/css/main.2ba960e9.chunk.css",
-    "static/js/main.3effa77b.chunk.js"
+    "static/js/runtime-main.6f66c7f4.js",
+    "static/css/2.e852eeaf.chunk.css",
+    "static/js/2.1a646ace.chunk.js",
+    "static/css/main.5d95002d.chunk.css",
+    "static/js/main.702aee05.chunk.js"
   ]
 }
