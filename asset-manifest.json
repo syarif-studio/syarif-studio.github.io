@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.54d9a6a0.chunk.css",
+    "main.css": "/static/css/main.1b17fa69.chunk.css",
     "main.js": "/static/js/main.99f0f831.chunk.js",
     "main.js.map": "/static/js/main.99f0f831.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f66c7f4.js",
@@ -10,7 +10,7 @@
     "static/js/2.0ac496e1.chunk.js.map": "/static/js/2.0ac496e1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e852eeaf.chunk.css.map": "/static/css/2.e852eeaf.chunk.css.map",
-    "static/css/main.54d9a6a0.chunk.css.map": "/static/css/main.54d9a6a0.chunk.css.map",
+    "static/css/main.1b17fa69.chunk.css.map": "/static/css/main.1b17fa69.chunk.css.map",
     "static/js/2.0ac496e1.chunk.js.LICENSE.txt": "/static/js/2.0ac496e1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/HelveticaNowDisplay-Regular.7a5d20e3.woff",
     "static/media/banks-logo.214d169b.png": "/static/media/banks-logo.214d169b.png",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.6f66c7f4.js",
     "static/css/2.e852eeaf.chunk.css",
     "static/js/2.0ac496e1.chunk.js",
-    "static/css/main.54d9a6a0.chunk.css",
+    "static/css/main.1b17fa69.chunk.css",
     "static/js/main.99f0f831.chunk.js"
   ]
 }
