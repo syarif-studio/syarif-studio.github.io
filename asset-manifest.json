@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d3a8eea.chunk.css",
-    "main.js": "/static/js/main.ba10b2c5.chunk.js",
-    "main.js.map": "/static/js/main.ba10b2c5.chunk.js.map",
+    "main.css": "/static/css/main.4965c9b3.chunk.css",
+    "main.js": "/static/js/main.5377a603.chunk.js",
+    "main.js.map": "/static/js/main.5377a603.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f66c7f4.js",
     "runtime-main.js.map": "/static/js/runtime-main.6f66c7f4.js.map",
     "static/css/2.e852eeaf.chunk.css": "/static/css/2.e852eeaf.chunk.css",
-    "static/js/2.97e8a500.chunk.js": "/static/js/2.97e8a500.chunk.js",
-    "static/js/2.97e8a500.chunk.js.map": "/static/js/2.97e8a500.chunk.js.map",
+    "static/js/2.70b9e02f.chunk.js": "/static/js/2.70b9e02f.chunk.js",
+    "static/js/2.70b9e02f.chunk.js.map": "/static/js/2.70b9e02f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e852eeaf.chunk.css.map": "/static/css/2.e852eeaf.chunk.css.map",
-    "static/css/main.0d3a8eea.chunk.css.map": "/static/css/main.0d3a8eea.chunk.css.map",
-    "static/js/2.97e8a500.chunk.js.LICENSE.txt": "/static/js/2.97e8a500.chunk.js.LICENSE.txt",
+    "static/css/main.4965c9b3.chunk.css.map": "/static/css/main.4965c9b3.chunk.css.map",
+    "static/js/2.70b9e02f.chunk.js.LICENSE.txt": "/static/js/2.70b9e02f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/HelveticaNowDisplay-Regular.7a5d20e3.woff",
     "static/media/banks-logo.214d169b.png": "/static/media/banks-logo.214d169b.png",
-    "static/media/course-main.bf0d2f66.jpg": "/static/media/course-main.bf0d2f66.jpg",
     "static/media/extra-1.632ffb56.jpg": "/static/media/extra-1.632ffb56.jpg",
     "static/media/App.css": "/static/media/home-main.67d08899.jpg",
     "static/media/lesson-1.9430028e.jpg": "/static/media/lesson-1.9430028e.jpg",
     "static/media/lesson-2.e986395b.jpg": "/static/media/lesson-2.e986395b.jpg",
     "static/media/lesson-3.614642aa.jpg": "/static/media/lesson-3.614642aa.jpg",
-    "static/media/player-poster.3e652955.jpg": "/static/media/player-poster.3e652955.jpg",
     "static/media/purchased-1.jpg": "/static/media/purchased-1.611b219d.jpg",
     "static/media/purchased-2.jpg": "/static/media/purchased-2.a99c6d26.jpg",
     "static/media/purchased-3.jpg": "/static/media/purchased-3.b44670a2.jpg",
@@ -31,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f66c7f4.js",
     "static/css/2.e852eeaf.chunk.css",
-    "static/js/2.97e8a500.chunk.js",
-    "static/css/main.0d3a8eea.chunk.css",
-    "static/js/main.ba10b2c5.chunk.js"
+    "static/js/2.70b9e02f.chunk.js",
+    "static/css/main.4965c9b3.chunk.css",
+    "static/js/main.5377a603.chunk.js"
   ]
 }
